@@ -174,9 +174,10 @@ http://z.b.bkpcp.top/m.php?id=chcjtyy
 http://z.b.bkpcp.top/m.php
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="港澳台",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘剧场.png" group-title="港澳台",淘剧场
-http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="港澳台",淘电影
-http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/聚鲨环球精选.png" group-title="港澳台",聚鲨环球精选
+http://47.93.215.244:80/udp/225.1.8.67:8002
+#EXTINF:-1 tvg-name="四川康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川康巴卫视.png" group-title="港澳台",四川康巴卫视
+http://171.213.139.147:8188/udp/239.93.0.41:5140
+
 
 
